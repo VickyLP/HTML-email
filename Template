@@ -1,0 +1,1627 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=yes" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="color-scheme" content="light dark"/>
+    <meta name="supported-color-schemes" content="light dark"/>
+    <meta name="format-detection" content="telephone=no">
+    
+    <title>
+    </title>
+    <style type="text/css">
+      body {
+        background-color: #f7f5f3 !important;
+        margin:0 auto!important;
+        padding:0 !important;
+        text-size-adjust: none !important;
+        -webkit-text-size-adjust: none !important;
+        -ms-text-size-adjust: none !important;
+      }
+      /* Outlook link fix */
+      #outlook a {
+        padding:0;
+      }
+      table td {
+        border-collapse:collapse !important;
+        mso-table-lspace: 0pt !important;
+        mso-table-rspace: 0pt !important;
+      }
+      table {
+        border-collapse:collapse !important;
+        mso-table-lspace: 0pt !important;
+        mso-table-rspace: 0pt !important;
+      }
+      .gmailfix {
+        display: none;
+        display: none! important;
+      }
+
+      /* Re-style iPhone automatic links (eg. phone numbers) */
+      .applelinks a {
+        text-decoration: none !important;
+      }
+      .logo {
+        width: 142px !important;
+        height: auto !important;
+      }
+      .socialImg {
+        width: 40px !important;
+        height: auto !important;
+      }
+      .columnTd {
+        text-decoration: none !important;
+        color: #000 !important;
+      }
+       
+
+    
+      /* Media Queries */
+      @media only screen and (max-width: 480px) {
+        .hide {
+          display: none !important;
+          width: 0px !important;
+          height: 0px !important;
+          max-height: 0px !important;
+          overflow: hidden !important;
+          mso-hide: all !important;
+          font-size: 0px !important;
+          line-height: 0px !important;
+          float: left !important
+        }
+        .w100 {
+          width: 100% !important;
+          max-width: 100% !important;
+			    display: block !important;
+        }
+        .w90 {
+          width: 90% !important;
+          max-width: 90% !important;
+			    display: block !important;
+        }
+        .w70 {
+          width: 70% !important;
+          max-width: 70% !important;
+          display: inline-block !important;
+        }
+        .w30 {
+          width: 30% !important;
+          max-width: 30% !important;
+          display: inline-block !important;
+        }
+        
+        .wb70 {
+          width: 70% !important;
+          max-width: 70% !important;
+          display: block !important;
+        }
+        .wb30 {
+          width: 30% !important;
+          max-width: 30% !important;
+          display: block !important;
+        }
+        .wp100 {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+        .wp45 {
+          width: 45% !important;
+        }
+        .pt30 {
+          padding-top: 30px !important;
+        }
+        .pt10 {
+          padding-top: 10px !important;
+        }
+        .pl10 {
+          padding-left: 10px !important;
+        }
+        .pl5 {
+          padding-left: 5px !important;
+        }
+        .pr10 {
+          padding-right: 10px !important;
+        }
+        .pr5 {
+          padding-right: 5px !important;
+        }
+        .pb10 {
+          padding-bottom: 10px !important;
+        }
+        .p10 {
+          padding: 0 10px !important;
+        }
+      
+        .picauto {
+          width: 100% !important;
+          height: auto !important;
+        }
+        .showMobile, .showImage {
+          max-height: none !important;
+          opacity: 1 !important;
+          visibility: visible !important;
+          display: table !important;
+          overflow: visible !important;
+        }
+      }
+     
+
+      @media (prefers-color-scheme: dark) {
+        .dm_bg_body:not([class^="x_"]) {
+          background-color: #FEFFFF !important;
+        }
+        
+        .colorBackground:not([class^="x_"]) {
+          background-color: #FEFFFF !important;
+        }
+      }
+      [data-ogsb] .dm_bg_body {
+        background-color: #FEFFFF !important;
+      }
+      [data-ogsb] .colorBackground  {
+        background-color: #FEFFFF !important;
+      }
+     
+    </style>
+    <!--[if gte mso 9]>
+<xml><o:OfficeDocumentSettings>
+<o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+    <!--[if mso]>
+<style type="text/css">
+table {border-collapse:collapse;border:0;border-spacing:0;margin:0 auto;}
+div, td {padding:0 auto;}
+div {margin:0 auto !important;}
+</style>
+<![endif]-->
+
+  </head>
+  <body>
+    
+    
+<!-- LOGO -->
+<table class="wp100" align="center" bgcolor="#fff"  border="0" cellpadding="0" cellspacing="0"  style="background-color: #feffff;margin: 0 auto; width: 680px; max-width: 680px;" width="680">
+  <tr>
+    <td>
+      <table class="wp100" align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background-color: #feffff; width: 566px;" width="566">
+      <tr>
+        <td height="30" style="font-size: 1px; line-height: 1px; height: 30px;">
+        &nbsp;
+        </td>
+      </tr>
+      <tr>
+        <td class="pl10" align="left">
+        <a href="" target="_blank" title="To homepage">
+          <img alt="Logo" bgcolor="#fff" class="logo" height="auto" style="background-color: #fff; width: 142px; height: auto;" src="https://via.placeholder.com/100x50.png" target="_blank" width="142"> 
+        </a>
+        </td>
+      </tr>
+      </table>
+    </td>
+    </tr>
+  </table>
+      <!-- Headline -->
+      <table class="wp100" align="center" bgcolor="#fff"  border="0" cellpadding="0" cellspacing="0"  style="background-color: #feffff;margin: 0 auto; width: 680px; max-width: 680px;" width="680">
+        <tr>
+          <td>
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 566px;" width="566">
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                <td class="pr10" align="left" style="width: 20px;">
+                  <table>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px; font-size: 1px; line-height: 1px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px; font-size: 1px; line-height: 1px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                  </table>
+                </td>
+                <td>
+                  <table>
+                    <tr>
+                        <td width="20" style="font-size: 1px; line-height: 1px; width: 20px;"> &nbsp; </td>
+                      <td class="pl10" align="center" style="color:#000; font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif; text-align: right;">
+                        <h2> Headline </h2>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              
+              </tr>
+            </table>
+          </td>
+        </tr>
+    </table>
+      
+<!-- BANNER -->
+<table class="wp100 hide" align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background-color: #feffff; margin: 0 auto; width: 680px; max-width: 680px;" width="680">
+  <tr>
+    <td>
+      <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 566px;" width="566">
+        <tr>
+          <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 100%; vertical-align: bottom; font-size: 0px; height: 300px; background-repeat: no-repeat;" width="100%" valign="bottom" align="left" background="https://via.placeholder.com/566x300.png">
+            <!--[if gte mso 9]>
+            <v:image xmlns:v="urn:schemas-microsoft-com:vml" id="theImage" style="behavior: url(#default#VML); display: inline-block; position: absolute; width: 566px; height: 300px; top: 0; left: 0; border: 0; z-index: 1;" src="https://via.placeholder.com/566x300.png" />
+            <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="display: inline-block; position: absolute; width: 566px; height: 301px; top: -5; left: -11; border: 0; z-index: 2;">
+              <v:fill opacity="0%" style="z-index: 1;" />
+              <div>
+                <![endif]-->
+                <table width="566" height="300" border="0" cellspacing="0" cellpadding="0" valign="bottom" style="width: 566px; height: 300px;">
+                  <tbody>
+                    <tr>
+                      <td height="237" style="height: 237px; font-size: 1px; line-height: 1px;">
+                        &nbsp;
+                      </td>
+                    </tr>
+                    <tr>
+                        
+                      <td valign="bottom" style="vertical-align: bottom; padding: 0 10px 10px 0;" align="right">
+                        <table cellpadding="0" cellspacing="0" border="0" bgcolor="pink" valign="bottom" style="height: 40px;" height="40">
+                          <tbody>
+                            <tr>
+                              <td width="10" style="width: 10px; font-size: 15px; line-height: 15px;">&nbsp;</td>
+                              <td style="line-height: 19.2px;" align="right">
+                                <a href="#" target="_blank" style="font-family: Arial, sans-serif; font-size: 16px; line-height: 40px; font-weight: bold; color: #000; text-decoration: none; background-color: pink;">
+                                    Loren ipsum
+                                </a>
+                              </td>
+                              <td width="10" style="width: 10px; font-size: 15px; line-height: 15px;">&nbsp;</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                      <td width="10" style="width: 10px; font-size: 15px; line-height: 15px;">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td height="10" style="height: 10px; font-size: 15px; line-height: 15px;">&nbsp;</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <!--[if gte mso 9]>
+                </div>
+                </v:fill>
+                </v:rect>
+                <![endif]-->
+              </td>
+            </tr>
+          </table>
+        </td>
+  </tr>
+</table>
+
+    <!-- Mobile -->
+    <!--[if !mso]><!-->
+    <table class="wp100 showMobile" align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="width: 100%; display: none; max-height: 0px; opacity: 0; visibility: hidden; overflow: hidden;" width="100%">
+      <tr>
+        <td>
+          <table class="wp100" align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="width: 100%; margin: 0 auto;" width="100%">
+            <tr>
+              <td style="width: 100%; vertical-align: bottom; font-size: 0px; height: 300px; background-repeat: no-repeat; background-size: 100% 95%;" width="100%" valign="bottom" align="left" background="https://via.placeholder.com/480x250.png">
+                <table width="100%" height="300" border="0" cellspacing="0" cellpadding="0" valign="bottom" style="width: 100%; height: 300px;">
+                  <tbody>
+                    <tr>
+                      <td height="237" style="height: 237px; font-size: 1px; line-height: 1px;">
+                        &nbsp;
+                      </td>
+                    </tr>
+                    <tr>
+                      <td valign="bottom" style="vertical-align: bottom; padding: 0 10px 10px 0;" align="center">
+                        <table cellpadding="0" cellspacing="0" border="0" bgcolor="pink" valign="bottom" style="height: 40px;" height="40">
+                          <tbody>
+                            <tr>
+                              <td width="10" style="width: 10px; font-size: 15px; line-height: 15px;">&nbsp;</td>
+                              <td style="line-height: 19.2px;">
+                                <a href="#" target="_blank" style="font-family: Arial, sans-serif; font-size: 16px; line-height: 40px; font-weight: bold; color: #000; text-decoration: none; background-color: pink;">
+                                   Loren ipsum
+                                </a>
+                              </td>
+                              <td width="10" style="width: 10px; font-size: 15px; line-height: 15px;">&nbsp;</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                      <td width="10" style="width: 10px; font-size: 15px; line-height: 15px;">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td height="10" style="height: 10px; font-size: 15px; line-height: 15px;">&nbsp;</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <!--<![endif]-->
+
+<!-- TEXT -->
+<table class="wp100" align="center" bgcolor="#fff"  border="0" cellpadding="0" cellspacing="0"  style="background-color: #feffff;margin: 0 auto; width: 680px; max-width: 680px;" width="680"> 
+  <tr>
+    <td>
+      <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 566px;" width="566">
+        <tr>
+          <td height="10"  style="font-size: 1px; line-height: 1px; height: 10px;" >
+          &nbsp;
+          </td>
+      </tr>
+      <tr>
+        <td class="p10" style="color:#000; font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif; text-align: left;">
+         Hi <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td class="p10" style="color:#000; font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif; text-align: left;">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+        </td>
+      </tr>
+      <tr>
+        <td  style="font-size: 1px; line-height: 1px; height: 15px;" height="15">
+          &nbsp;
+        </td>
+      </tr>
+      <tr>
+        <td class="p10" style="color:#000; font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif; text-align: left;">
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+        </td>
+      </tr>
+      <tr>
+        <td  style="font-size: 1px; line-height: 1px; height: 15px;" height="15">
+          &nbsp;
+        </td>
+      </tr>
+      
+      <tr>
+        <td  style="font-size: 1px; line-height: 1px; height: 15px;" height="15">
+          &nbsp;
+        </td>
+      </tr>
+      <tr>
+        <td class="p10" style="color: #000; font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif; text-align: left;">
+          <strong>Team</strong>
+        </td>
+      </tr>
+      <tr>
+        <td height="20" style="font-size: 1px; line-height: 1px; height: 20px;">
+          &nbsp;
+        </td>
+      </tr>    
+      </table>
+    </td>
+  </tr>
+</table>
+ <!-- Headline -->
+      <table class="wp100" align="center" bgcolor="#fff"  border="0" cellpadding="0" cellspacing="0"  style="background-color: #feffff;margin: 0 auto; width: 680px; max-width: 680px;" width="680">
+        <tr>
+          <td>
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 566px;" width="566">
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                    <td class="pr10" align="left" style="width: 20px;">
+                  <table>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px; font-size: 1px; line-height: 1px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px; font-size: 1px; line-height: 1px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                  </table>
+                </td>
+                <td>
+                  <table>
+                    <tr>
+                        <td width="20" style="font-size: 1px; line-height: 1px; width: 20px;"> &nbsp;</td>
+                      <td class="pl10" align="center" style="color:#000; font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif; text-align: right;">
+                        <h2> Headline </h2>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              
+              </tr>
+            </table>
+          </td>
+        </tr>
+    </table>
+      
+<!-- 2 COLUMNS -->
+<table class="wp100" align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background-color: #feffff;margin: 0 auto; width: 680px; max-width: 680px;" width="680">
+  <tr>
+    <td>
+      <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style=" width: 566px; max-width: 566px;" width="566">
+        <tr>
+          <td height="30" style="font-size: 1px; line-height: 1px; height: 30px;">
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <!-- First column -->
+          <td align="center" class="w100" style="width: 50% " width="50%" valign="top">
+            <table class="wp100" align="left" border="0" cellpadding="0" cellspacing="0" style="width: 268px;" width="268">
+              <tr>
+                <td align="center" class="p10">
+                  <a href="#" target="_blank"><img class="picauto" src="https://via.placeholder.com/268x250.png" alt="image" style="height: 250px; width: 268px;"></a>
+                </td>
+              </tr>
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                <td class="p10" style="color: #000;font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif;">
+                  <a href="#" target="_blank" style="text-decoration: none; color: #000;"><h4>Lorem ipsum</h4></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="p10" style="color:#000;font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+              </tr>
+              <tr>
+                <td height="20" style="font-size: 1px; line-height: 1px; height: 20px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <!-- Button -->
+              <tr>
+                <td class="p10">
+                  <table style="background-color: pink; width: 154;" width="154">
+                    <tr>
+                      <td>
+                        <table align="center"  cellspacing="0" cellpadding="0" border="0" style="background-color: pink;">
+                          <tr>
+                            <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td style="font-size: 1px; line-height: 1px; width: 20px;" width="20">
+                              &nbsp;
+                            </td>
+                            <td align="left" style="background-color: pink;">
+                              <a href="#" target="_blank" style="color: #000; font-size: 13px; font-family: Arial, sans-serif; font-weight: bold; line-height: 19.2px; text-decoration: none; display: block; text-align: center;">Lorem ipsum</a>
+                            </td>
+                            <td style="font-size: 1px; line-height: 1px; width: 20px;" width="20">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td class="hide" style="width: 30px; font-size: 10px; line-height: 10px;" width="30">
+            &nbsp;
+          </td>
+          <!-- Second column -->
+          <td align="center" class="w100 pt30" style=" width: 50%;" width="50%" valign="top">
+            <table class="wp100" align="right" border="0" cellpadding="0" cellspacing="0" style="width: 268px;" width="268">
+              <tr>
+                <td align="center" class="p10">
+                  <a href="#" target="_blank"><img class="picauto pt30" src="https://via.placeholder.com/268x250.png" alt="image" style="height: 250px; width: 268px;"></a>
+                </td>
+              </tr>
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                <td class="p10" style="color:#000; font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif;">
+                  <a href="#" target="_blank" style="text-decoration: none; color: #000;"><h4>Lorem ipsum</h4></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="p10" style="color:#000; font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+              </tr>
+              <tr>
+                <td height="20" style="font-size: 1px; line-height: 1px; height: 20px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <!-- Button -->
+              <tr>
+                <td class="p10">
+                  <table style="background-color: pink; width: 154;" width="154">
+                    <tr>
+                      <td>
+                        <table align="center"  cellspacing="0" cellpadding="0" border="0" style="background-color: pink;">
+                          <tr>
+                            <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td style="font-size: 1px; line-height: 1px; width: 20px;" width="20">
+                              &nbsp;
+                            </td>
+                            <td align="left" style="background-color: pink;">
+                              <a href="#" target="_blank" style="color: #000; font-size: 13px; font-family: Arial, sans-serif; font-weight: bold; line-height: 19.2px; text-decoration: none; display: block; text-align: center;">Lorem ipsum</a>
+                            </td>
+                            <td style="font-size: 1px; line-height: 1px; width: 20px;" width="20">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td height="20" style="font-size: 1px; line-height: 1px; height: 20px;">
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+ <!-- Headline -->
+      <table class="wp100" align="center" bgcolor="#fff"  border="0" cellpadding="0" cellspacing="0"  style="background-color: #feffff;margin: 0 auto; width: 680px; max-width: 680px;" width="680">
+        <tr>
+          <td>
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 566px;" width="566">
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                    <td class="pr10" align="left" style="width: 20px;">
+                  <table>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px; font-size: 1px; line-height: 1px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px; font-size: 1px; line-height: 1px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                  </table>
+                </td>
+                <td>
+                  <table>
+                    <tr>
+                        <td width="20" style="font-size: 1px; line-height: 1px; width: 20px;">&nbsp; </td>
+                      <td class="pl10" align="center" style="color:#000; font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif; text-align: right;">
+                        <h2> Headline </h2>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              
+              </tr>
+            </table>
+          </td>
+        </tr>
+    </table>
+      
+<!-- 2 PICTURES & TEXT -->
+<table class="wp100" align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background-color: #feffff;margin: 0 auto; width: 680px; max-width: 680px;" width="680">
+  <tr>
+    <td>
+      <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style=" width: 566px;" width="566">
+        <tr>
+          <td height="30" style="font-size: 1px; line-height: 1px; height: 30px;">
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table class="wp100" border="0" cellpadding="0" cellspacing="0" style="width: 566px;" width="566">
+              <tr>
+                <td align="center" class="p10">
+                  <a href="#" target="_blank">
+                    <img class="picauto" src="https://via.placeholder.com/268x250.png" alt="image" style="width: 268px; height: 250px; border: none; margin: 0; display: block;">
+                  </a>
+                </td>
+                <td class="hide" style="width: 30px; font-size: 10px; line-height: 10px;" width="30">
+                  &nbsp;
+                </td>
+                <td>
+                  <a href="#" target="_blank">
+                    <img class="hide" src="https://via.placeholder.com/268x250.png" alt="image" style="width: 268px; height: 250px; border: none; margin: 0; display: block;">
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td class="p10">
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: ; margin: 0 auto; width: 566px;" width="566">
+              <tr>
+                <td>
+                  <table bgcolor="eee8da" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFF6FD;">
+                    <tr>
+                      <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                        &nbsp;
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="font-size: 1px; line-height: 1px; width: 36px;" width="36">
+                        &nbsp;
+                      </td>
+                      <td class="p10" style="color:#000; font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif; text-align: left;">
+                        <h3>Lorem ipsum</h3>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="font-size: 1px; line-height: 1px; width: 36px;" width="36">&nbsp;</td>
+                      <td class="p10" style="color:#000; font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif; text-align: left; width: 566px; " width="566">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </td>
+                      <td style="font-size: 1px; line-height: 1px; width: 36px;" width="36">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">&nbsp; </td>
+                    </tr>
+                    <tr>
+                      <td style="font-size: 1px; line-height: 1px; width: 36px;" width="36">&nbsp;</td>
+                      <td class="p10">
+                        <table class="p10" style="background-color: pink; width: 154px;" width="154">
+                          <tr>
+                            <td>
+                              <table  lass="p10" align="center"  cellspacing="0" cellpadding="0" border="0" style="background-color: pink;">
+                                <tr>
+                                  <td height="10" style="font-size: 1px; line-height: 1px;  height: 10px;"> &nbsp; </td>
+                                </tr>
+                                <tr>
+                                  <td style="font-size: 1px; line-height: 1px;  width: 12px;" width="12"> &nbsp;</td>
+                                  <td align="left" style="background-color: pink;">
+                                    <a href="#" target="_blank" style="color: #000; font-size: 13px; font-family: Arial, sans-serif; font-weight: bold; line-height: 19.2px; text-decoration: none; display: block; text-aligh: center;">Lorem ipsum</a>
+                                  </td>
+                                  <td style="font-size: 1px; line-height: 1px;  width: 10px;" width="10"> &nbsp;
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td height="10" style="font-size: 1px; line-height: 1px;  height: 10px;"> &nbsp; </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height="30" style="font-size: 1px; line-height: 1px; height: 30px;">&nbsp; </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td height="20" style="font-size: 1px; line-height: 1px; height: 20px;">
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+ <!-- Headline -->
+      <table class="wp100" align="center" bgcolor="#fff"  border="0" cellpadding="0" cellspacing="0"  style="background-color: #feffff;margin: 0 auto; width: 680px; max-width: 680px;" width="680">
+        <tr>
+          <td>
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 566px;" width="566">
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                    <td class="pr10" align="left" style="width: 20px;">
+                  <table>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px; font-size: 1px; line-height: 1px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px; font-size: 1px; line-height: 1px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                  </table>
+                </td>
+                <td>
+                  <table>
+                    <tr>
+                        <td width="20" style="font-size: 1px; line-height: 1px; width: 20px;">&nbsp; </td>
+                      <td class="pl10" align="center" style="color:#000; font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif; text-align: right;">
+                        <h2> Headline </h2>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              
+              </tr>
+            </table>
+          </td>
+        </tr>
+    </table>
+      
+<!-- 4 COLUMNS  -->
+<table class="wp100" align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background-color: #feffff;margin: 0 auto; width: 680px; max-width: 680px;" width="680">
+  <tr>
+    <td height="30" style="font-size: 1px; line-height: 1px; height: 30px;">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style=" width: 566px; max-width: 566px;" width="566">
+        <!-- First and Second columns -->
+        <tr>
+          <td class="w100" style=" width: 50% " width="50%">
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 268px;" width="268">
+              <tr>
+                <!-- First column -->
+                <td align="center" class="wp45 pl10 pr5">
+                  <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFF6FD; width: 119px;" width="119" height="200">
+                    <tr>
+                      <td width="119">
+                        <a href="#" target="_blank"><img class="picauto" style="width: 119px; height: 130px;" height="130" width="119" src="https://via.placeholder.com/119x130.png" alt="image"></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <table>
+                            <tr>
+                                <td height="10" style="font-size: 1px; line-height: 1px;  height: 10px;">
+                                    &nbsp;
+                                </td>
+                            </tr>
+                          <tr>
+                            <td style="font-size: 1px; line-height: 1px; width: 10px;" width="10">
+                            </td>
+                            <td valign="top" style="color:#000;font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif;  height: 50px" height="50">
+                              <a href="#" target="_blank" style="text-decoration: none; color: #000;"><h3>Lorem ipsum</h3></a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <!-- Button -->
+                        <table class="wp100" cellspacing="0" cellpadding="0" border="0" style="background-color: pink; width: 119px;" width="119">
+                          <tr>
+                            <td height="5" style="font-size: 1px; line-height: 1px;  height: 5px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="center" style="background-color: pink;">
+                              <a href="#" target="_blank" style="color: #000; font-size: 14px; font-family: Arial, sans-serif; font-weight: bold; line-height: 19.2px; text-decoration: none; display: block;">Lorem ipsum</a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td height="5" style="font-size: 1px; line-height: 1px;  height: 5px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td class="hide" style="width: 20px; font-size: 1px; line-height: 1px;" width="20">
+                  &nbsp;
+                </td>
+                <!-- Second column -->
+                <td align="center" class="wp45 pr10 pl5">
+                  <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFF6FD; width: 119px;" width="119" height="200">
+                    <tr>
+                      <td width="119">
+                        <a href="#" target="_blank"><img class="picauto" style="width: 119px; height: 130px;" height="130" width="119" src="https://via.placeholder.com/119x130.png" alt="image"></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <table>
+                          <tr>
+                            <td height="10" style="font-size: 1px; line-height: 1px;  height: 10px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td style="font-size: 1px; line-height: 1px; width: 10px;" width="10">
+                            </td>
+                            <td valign="top" style="color:#000;font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif;  height: 60px" height="60">
+                              <a href="#" target="_blank" style="text-decoration: none; color: #000;"><h3>Lorem ipsum</h3></a>
+                            </td>
+                            <td style="font-size: 1px; line-height: 1px; width: 20px;" width="20">
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <!-- Button -->
+                        <table class="wp100" cellspacing="0" cellpadding="0" border="0" style="background-color: pink; width: 119px;" width="119">
+                          <tr>
+                            <td height="5" style="font-size: 1px; line-height: 1px;  height: 5px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="center" style="background-color: pink;">
+                              <a href="#" target="_blank" style="color: #000; font-size: 14px; font-family: Arial, sans-serif; font-weight: bold;line-height: 19.2px; text-decoration: none; display: block;">Lorem ipsum</a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td height="5" style="font-size: 1px; line-height: 1px;  height: 5px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td class="hide" style="font-size: 30px; line-height: 30px; width: 30px;" width="30">
+            &nbsp;
+          </td>
+          <!-- Third and Fourth columns -->
+          <td align="center" class="w100 pt10" style=" width: 50% " width="50%">
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 268px;" width="268">
+              <tr>
+                <!-- Third column -->
+                <td align="center" class="wp45 pl10 pr5">
+                  <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFF6FD; width: 119px;" width="119" height="200">
+                    <tr>
+                      <td width="119">
+                        <a href="#" target="_blank"><img class="picauto" style="width: 119px; height: 130px;" height="130" width="119" src="https://via.placeholder.com/119x130.png" alt="image"></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <table>
+                            <tr>
+                                <td height="10" style="font-size: 1px; line-height: 1px;  height: 10px;">
+                                    &nbsp;
+                                </td>
+                            </tr>
+                          <tr>
+                            <td style="font-size: 1px; line-height: 1px; width: 10px;" width="10">
+                            </td>
+                            <td valign="top" style="color:#000;font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif;  height: 50px" height="50">
+                              <a href="#" target="_blank" style="text-decoration: none; color: #000;"><h3>Lorem ipsum</h3></a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <!-- Button -->
+                        <table class="wp100" cellspacing="0" cellpadding="0" border="0" style="background-color: pink; width: 119px;" width="119">
+                          <tr>
+                            <td height="5" style="font-size: 1px; line-height: 1px;  height: 5px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="center" style="background-color: pink;">
+                              <a href="#" target="_blank" style="color: #000; font-size: 14px; font-family: Arial, sans-serif; font-weight: bold; line-height: 19.2px; text-decoration: none; display: block;">Lorem ipsum</a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td height="5" style="font-size: 1px; line-height: 1px;  height: 5px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td class="hide" style="width: 20px; font-size: 1px; line-height: 1px;" width="20">
+                  &nbsp;
+                </td>
+                <!-- Fourth column -->
+                <td align="center" class="wp45 pr10 pl5">
+                  <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFF6FD; width: 119px;" width="119" height="200">
+                    <tr>
+                      <td width="119">
+                        <a href="#" target="_blank"><img class="picauto" style="width: 119px; height: 130px;" height="130" width="119" src="https://via.placeholder.com/119x130.png" alt="image"></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <table>
+                            <tr>
+                                <td height="10" style="font-size: 1px; line-height: 1px;  height: 10px;">
+                                    &nbsp;
+                                </td>
+                            </tr>
+                          <tr>
+                            <td style="font-size: 1px; line-height: 1px; width: 10px;" width="10">
+                            </td>
+                            <td valign="top" style="color:#000;font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif; height: 50px" height="50">
+                              <a href="#" target="_blank" style="text-decoration: none; color: #000;"><h3>Lorem ipsum</h3></a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <!-- Button -->
+                        <table class="wp100" cellspacing="0" cellpadding="0" border="0" style="background-color: pink; width: 119px;" width="119">
+                          <tr>
+                            <td height="5" style="font-size: 1px; line-height: 1px;  height: 5px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="center" style="background-color: pink;">
+                              <a href="#" target="_blank" style="color: #000; font-size: 14px; font-family: Arial, sans-serif; font-weight: bold;line-height: 19.2px; text-decoration: none; display: block;">Lorem ipsum</a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td height="5" style="font-size: 1px; line-height: 1px;  height: 5px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+        <td style="font-size: 1px; line-height: 1px; height: 20px;" height="20"></td>
+      </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<table class="wp100" align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background-color: #feffff;margin: 0 auto; width: 680px; max-width: 680px;" width="680">
+  <tr>
+    <td>
+      <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style=" width: 566px; max-width: 566px;" width="566">
+        <tr>
+          <td height="30" style="font-size: 1px; line-height: 1px; height: 30px;">
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <!-- First column -->
+          <td align="center" class="w100" style="width: 33% " width="33%" valign="top">
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 178px; background-color: #FFF6FD;" width="178" >
+              <tr>
+                <td align="center" class="p10">
+                  <a href="#" target="_blank"><img class="picauto" src="https://via.placeholder.com/178x150.png" alt="image" style="height: 150px; width: 178px;"></a>
+                </td>
+              </tr>
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+            
+              <!-- Button -->
+              <tr>
+                <td class="p10">
+                  <table align="center" style="background-color: pink; width: 154px;" width="154">
+                    <tr>
+                      <td>
+                        <table align="center"  cellspacing="0" cellpadding="0" border="0" style="background-color: pink;">
+                          <tr>
+                            <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td style="font-size: 1px; line-height: 1px; width: 20px;" width="20">
+                              &nbsp;
+                            </td>
+                            <td align="center" style="background-color: pink;">
+                              <a href="#" target="_blank" style="color: #000; font-size: 13px; font-family: Arial, sans-serif; font-weight: bold; line-height: 19.2px; text-decoration: none; display: block; text-align: center;">Lorem ipsum</a>
+                            </td>
+                            <td style="font-size: 1px; line-height: 1px; width: 20px;" width="20">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                <td class="p10" style="color:#000;font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif; padding: 0 12px;">Lorem ipsum dolor sit lorem ipsum dolor sit</td>
+              </tr>
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td class="hide" style="width: 16px; font-size: 10px; line-height: 10px;" width="16">
+            &nbsp;
+          </td>
+          <!-- Second column -->
+          <td align="center" class="w100 pt30" style=" width: 33%;" width="33%" valign="top">
+            <table align="center" class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 178px; background-color: #FFF6FD;" width="178">
+              <tr>
+                <td align="center" class="p10">
+                  <a href="#" target="_blank"><img class="picauto" src="https://via.placeholder.com/178x150.png" alt="image" style="height: 150px; width: 178px;"></a>
+                </td>
+              </tr>
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <!-- Button -->
+              <tr>
+                <td class="p10">
+                  <table align="center" style="background-color: pink; width: 154px;" width="154">
+                    <tr>
+                      <td>
+                        <table align="center" cellspacing="0" cellpadding="0" border="0" style="background-color: pink;">
+                          <tr>
+                            <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td style="font-size: 1px; line-height: 1px; width: 20px;" width="20">
+                              &nbsp;
+                            </td>
+                            <td align="center" style="background-color: pink;">
+                              <a href="#" target="_blank" style="color: #000; font-size: 13px; font-family: Arial, sans-serif; font-weight: bold; line-height: 19.2px; text-decoration: none; display: block; text-align: center;">Mehr entdecken</a>
+                            </td>
+                            <td style="font-size: 1px; line-height: 1px; width: 20px;" width="20">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                <td class="p10" style="color:#000;font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif; padding: 0 12px;">Lorem ipsum dolor sit lorem ipsum dolor sit</td>
+              </tr>
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td class="hide" style="width: 16px; font-size: 10px; line-height: 10px;" width="16">
+            &nbsp;
+          </td>
+          <!-- Therd column -->
+          <td align="center" class="w100 pt30" style=" width: 33%;" width="33%" valign="top">
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 178px; background-color: #FFF6FD;" width="178">
+              <tr>
+                <td align="center" class="p10">
+                  <a href="#" target="_blank"><img class="picauto" src="https://via.placeholder.com/178x150.png" alt="image" style="height: 150px; width: 178px;"></a>
+                </td>
+              </tr>
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+              
+              <!-- Button -->
+              <tr>
+                <td class="p10">
+                  <table align="center" style="background-color: pink; width: 154px;" width="154">
+                    <tr>
+                      <td>
+                        <table align="center" cellspacing="0" cellpadding="0" border="0" style="background-color: pink;">
+                          <tr>
+                            <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td style="font-size: 1px; line-height: 1px; width: 20px;" width="20">
+                              &nbsp;
+                            </td>
+                            <td align="center" style="background-color: pink;">
+                              <a href="#" target="_blank" style="color: #000; font-size: 13px; font-family: Arial, sans-serif; font-weight: bold; line-height: 19.2px; text-decoration: none; display: block; text-align: center;">Loren ipsum</a>
+                            </td>
+                            <td style="font-size: 1px; line-height: 1px; width: 20px;" width="20">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                <td class="p10" style="color:#000;font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif; padding: 0 12px;">Lorem ipsum dolor sit lorem ipsum dolor sit</td>
+              </tr>
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td height="20" style="font-size: 1px; line-height: 1px; height: 20px;">
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+      
+ <!-- Headline -->
+      <table class="wp100" align="center" bgcolor="#fff"  border="0" cellpadding="0" cellspacing="0"  style="background-color: #feffff;margin: 0 auto; width: 680px; max-width: 680px;" width="680">
+        <tr>
+          <td>
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 566px;" width="566">
+              <tr>
+                <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                    <td class="pr10" align="left" style="width: 20px;">
+                  <table>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px; font-size: 1px; line-height: 1px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                    <tr>
+                      <td height="2" style="height: 2px; width: 15px; font-size: 1px; line-height: 1px;" width="15"></td>
+                    </tr>
+                    <tr>
+                      <td height="4" style="background-color: pink; height: 4px; width: 20px; font-size: 1px; line-height: 1px;" width="20"></td>
+                    </tr>
+                  </table>
+                </td>
+                <td>
+                  <table>
+                    <tr>
+                        <td width="20" style="font-size: 1px; line-height: 1px; width: 20px;"> &nbsp; </td>
+                      <td class="pl10" align="center" style="color:#000; font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif; text-align: right;">
+                        <h2> Headline </h2>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              
+              </tr>
+            </table>
+          </td>
+        </tr>
+    </table>
+      
+<!-- PICTURE AND TEXT FOR PARTNER -->
+<table class="wp100" align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background-color: #feffff; margin: 0 auto; width: 680px; max-width: 680px;" width="680">
+  <tr>
+    <td height="30" style="font-size: 1px; line-height: 1px; height: 30px;">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 566px; max-width: 566px;" width="566">
+        <tr>
+          <td align="center" class="w100" style="width: 50%" width="50%">
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" height="268" style="width: 268px;" width="268">
+              <tr>
+                <td class="p10" align="center" valign="top">
+                  <a href="#" target="_blank"><img class="picauto" src="https://via.placeholder.com/268x263.png" style="width: 268px; height: 268px" alt="image"></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td class="hide" style="font-size: 30px; line-height: 30px; width: 30px;" width="30">
+            &nbsp;
+          </td>
+          <td align="center" class="w100" style="width: 50%" width="50%">
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 268px;" width="268">
+              <tr>
+                <td class="pt10 pr10" align="right">
+                  <a href="#" target="_blank"><img src="https://via.placeholder.com/100x60.png" alt="image" style="width: 100px; height: 60px;" height="60" width="100"></a>
+                </td>
+              </tr>
+              <tr>
+                <td height="20" style="font-size: 1px; line-height: 1px; height: 20px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                <td class="pl10" style="color:#000;font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif;">
+                  <h3>Headline</h3>
+                </td>
+              </tr>
+              <tr>
+                <td class="p10" style="color:#000; font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif; width: 566px;" width="566">ILorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </td>
+              </tr>
+              <tr>
+                <td height="50" style="font-size: 1px; line-height: 1px; height: 40px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                <td class="pl10">
+                  <table style="background-color: pink; width: 154px;" width="154">
+                    <tr>
+                      <td>
+                        <table align="center" cellspacing="0" cellpadding="0" border="0" style="background-color: pink;">
+                          <tr>
+                            <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td style="font-size: 1px; line-height: 1px; width: 17px;" width="17">
+                              &nbsp;
+                            </td>
+                            <td align="left" style="background-color: pink;">
+                              <a href="#" target="_blank" style="color: #000; font-size: 13px; font-family: Arial, sans-serif; font-weight: bold; line-height: 19.2px; text-decoration: none; display: block;">Lorem ipsum</a>
+                            </td>
+                            <td style="font-size: 1px; line-height: 1px; width: 18px;" width="18">
+                              &nbsp;
+                            </td>
+                          </tr>
+                          <tr>
+                            <td height="10" style="font-size: 1px; line-height: 1px; height: 10px;">
+                              &nbsp;
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- FOOTER -->
+<table class="wp100" align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background-color: #feffff;margin: 0 auto; width: 680px; max-width: 680px;" width="680">
+  <tr>
+    <td class="hide" style="font-size: 30px; line-height: 30px; height: 50px;" height="50">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style=" width: 566px; max-width: 566px;" width="566">
+        <tr>
+          <td align="center" class="w100 pt30" style=" width: 50% " width="50%">
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 268px;" width="268">
+              <tr>
+                <td class="p10" align="center">
+                  <img class="picauto pt30" src="https://via.placeholder.com/268x200.png" alt="image" style="width: 268px; height: auto">
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td class="hide" style="font-size: 30px; line-height: 30px; width: 30px;" width="30">
+            &nbsp;
+          </td>
+          <td align="center" class="w100" style=" width: 50% " width="50%">
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 268px;" width="268">
+              <tr>
+                <td class="pt30 p10 pt10" style="color:#000;font-size: 16px; line-height: 19.2px; font-family: Arial, sans-serif;">
+                  <h3>Headline</h3>
+                </td>
+              </tr>
+              <tr>
+                <td height="15" style="font-size: 1px; line-height: 1px; height: 15px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                <td class="p10" style="color:#000; font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif; width: 268px;" width="268">
+                  Lorem ipsum dolor sit amet
+                </td>
+              </tr>
+              <tr>
+                <td class="p10" style="color:#000; font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif; width: 268px;" width="268">
+                  <a href="" title="Send us an e-mail" style="text-decoration: none; color: #000;">E-mail: </a>
+                </td>
+              </tr>
+              <tr>
+                <td class="p10" style="color:#000;font-size: 13px; line-height: 19.2px; font-family: Arial, sans-serif; width: 268px;" width="268">
+                  <a href="" target="_blank" title="Call us now" style="text-decoration: none; color: #000;">Telefon:  </a>
+                </td>
+              </tr>
+              <tr>
+                <td class="p10" style="color: #000; line-height: 19.2px; font-family: Arial, sans-serif; text-align: left; width: 268px;" width="268">
+                  <p style="font-size: 10px;">Lorem ipsum dolor sit amet
+                  </p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style=" width: 566px; max-width: 566px;" width="566">
+        <tr>
+          <td align="center" class="w100 " style=" width: 50% " width="50%">
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 268px;" width="268">
+              <tr>
+                <td height="15" style="font-size: 1px; line-height: 1px; height: 15px;">
+                  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                <td class="p10" style="color:#000; font-size: 16px; line-height: 19.2px; font-weight: bold; font-family: Arial, sans-serif;">
+                  <h3>Headline</h3>
+                </td>
+              </tr>
+              <tr>
+                <td class="pl10">
+                  <table align="left" border="0" cellpadding="0" cellspacing="0" style=" width: 268px;" width="268">
+                    <tr>
+                      <td border="0" cellpadding="0" cellspacing="0" style=" width:40px; max-width: 67px;" width="40">
+                        <a href="" target="_blank" title="Go to our Instagram page"><img class="socialImg" alt="Go to our Instagram page" style="height: auto; width: 40px; border: none; display: block; margin: 0;" src="https://via.placeholder.com/40x40.png" width="40" height="auto"></a>
+                      </td>
+                      <td align="left" border="0" cellpadding="0" cellspacing="0" style=" width:40px; max-width: 67px;" width="40">
+                        <a href="" target="_blank" title="Go to our Twitter page"><img class="socialImg" alt="Go to our Twitter page" style="height: auto; width: 40px; border: none; display: block; margin: 0;" src="https://via.placeholder.com/40x40.png" width="40" height="auto"></a>
+                      </td>
+                      <td align="left" border="0" cellpadding="0" cellspacing="0" style=" width:40px; max-width: 67px;" width="40">
+                        <a href="" target="_blank" title="Go to our YouTube channel"><img class="socialImg" alt="Go to our YouTube channel" style="height: auto; width: 40px; border: none; display: block; margin: 0;" src="https://via.placeholder.com/40x40.png" width="40" height="auto"></a>
+                      </td>
+                      <td align="left" border="0" cellpadding="0" cellspacing="0" style=" width:40px; max-width: 67px;" width="40">
+                        <a href="" target="_blank" title="Go to our Facebook page"><img class="socialImg" alt="Go to our Facebook page" style="height: auto; width: 40px; border: none; display: block; margin: 0;" src="https://via.placeholder.com/40x40.png" width="40" height="auto"></a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td class="hide" style="font-size: 30px; line-height: 30px; width: 30px;" width="30">
+            &nbsp;
+          </td>
+          <td align="center" class="w100 pt30" style=" width: 50% " width="50%">
+            <table class="wp100" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 268px;" width="268">
+              <tr>
+                <td class="p10">
+                  <table style="font-size: 12px; line-height: 19.2px; font-family: Arial, sans-serif; width: 268px;" width="268">
+                    <tr>
+                      <td class="hide" height="45" style="font-size: 1px; line-height: 1px; height: 45px;">
+                        &nbsp;
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <a style="color: #000; font-weight: bold;" href="" target="_blank">Lorem ipsum</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <a style="color: #000; font-weight: bold;" href="" target="_blank">Lorem ipsum</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <a style="color: #000; font-weight: bold;" href="" target="_blank">Lorem ipsum</a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td class="hide" style="font-size: 30px; line-height: 30px; height: 30px;" height="30">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td class="wp100 pt30">
+      <table class="wp100 pt30" align="center" border="0" cellpadding="0" cellspacing="0" style=" width: 566px;" width="566">
+        <tr>
+          <td class="pt30 p10" style="color:#000; font-size: 10px; line-height: 19.2px; font-family: Arial, sans-serif;">
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          </td>
+        </tr>
+        <tr>
+          <td height="50" style="font-size: 1px; line-height: 1px; height: 50px;">
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+   
+  </body>
+</html>
